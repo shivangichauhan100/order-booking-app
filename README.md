@@ -4,19 +4,19 @@ A real-time cryptocurrency orderbook viewer web application built with Next.js, 
 
 ## Features
 
-### 🚀 Real-time Data
+###  Real-time Data
 - Live WebSocket connections to OKX, Bybit, and Deribit
 - 15 levels of bids and asks per venue
 - Automatic reconnection with fallback to REST API
 - Real-time orderbook updates
 
-### 📊 Advanced Visualization
+###  Advanced Visualization
 - Responsive orderbook tables with color-coded bids/asks
 - Interactive market depth charts using Recharts
 - Orderbook imbalance indicators
 - Spread analysis and market statistics
 
-### 🎯 Order Simulation
+###  Order Simulation
 - Limit and market order simulation
 - Buy/sell side selection
 - Configurable delay timing (immediate, 5s, 10s, 30s)
@@ -25,14 +25,14 @@ A real-time cryptocurrency orderbook viewer web application built with Next.js, 
 - Time to fill estimation
 - Visual order positioning in orderbook
 
-### 📱 User Experience
+###  User Experience
 - Mobile-responsive design
 - Intuitive navigation between venues
 - Connection status indicators
 - Error handling with user-friendly messages
 - Clean, modern UI with Tailwind CSS
 
-### 🔧 Technical Features
+###  Technical Features
 - TypeScript for type safety
 - Zustand for state management
 - Efficient WebSocket handling with cleanup
@@ -223,6 +223,3 @@ For issues and questions:
 - Review existing issues
 - Create a new issue with detailed information
 
----
-
-Built with ❤️ using Next.js, TypeScript, and Tailwind CSS 
